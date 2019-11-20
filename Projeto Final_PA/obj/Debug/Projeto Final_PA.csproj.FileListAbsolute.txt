@@ -1,0 +1,36 @@
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.exe.config
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.exe
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.pdb
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csprojAssemblyReference.cache
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form1.resources
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form2.resources
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form3.resources
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Properties.Resources.resources
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csproj.GenerateResource.cache
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.exe
+C:\Users\flavi\source\repos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.pdb
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.exe.config
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.exe
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.pdb
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form1.resources
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form2.resources
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form3.resources
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Properties.Resources.resources
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csproj.GenerateResource.cache
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.exe
+C:\Users\Henrique\Desktop\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.pdb
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.exe.config
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.exe
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\bin\Debug\Projeto Final_PA.pdb
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csprojAssemblyReference.cache
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form1.resources
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form2.resources
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Form3.resources
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto_Final_PA.Properties.Resources.resources
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csproj.GenerateResource.cache
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.exe
+C:\Users\Henrique\Documents\ETEC\Programação e Algorítimos\Projeto Final_PA\Projeto Final_PA\obj\Debug\Projeto Final_PA.pdb
